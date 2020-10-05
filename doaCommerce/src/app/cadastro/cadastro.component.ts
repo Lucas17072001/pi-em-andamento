@@ -26,10 +26,10 @@ export class CadastroComponent implements OnInit {
 
 
   cadastrar(){
-  this.usuario.cpfCpnj=12346567892
-    this.usuario.idade=20
-    this.usuario.endereco="rua da doação"
-    this.usuario.tipoPessoa=1
+  // this.usuario.cpfCpnj=12346567892
+  //   this.usuario.idade=20
+  //   this.usuario.endereco="rua da doação"
+    // this.usuario.tipoPessoa=1
     this.usuario.produto=[]
     this.usuario.produtoDoacao=[]
 
